@@ -1,0 +1,77 @@
+h1{
+    background-color: aqua;
+    color: blue;
+    border: 2px solid red;
+    text-align: center;
+    border-radius: 35px;
+}
+
+span{
+    background-color: yellow;
+}
+
+h2{
+    color: green;
+}
+
+i{
+    color: red;
+}
+
+.a{
+    text-align: center;
+    background-color: yellow;
+}
+
+.b{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+
+img{
+    text-align: center;
+}
+
+iframe{
+    text-align: center;
+    width: 100%;
+}
+
+.c{
+    color: green;
+}
+
+.d{
+    color: green;
+}
+
+.g{
+    width: 80%;
+}
+
+button{
+    color: white;
+    background-color: royalblue;
+    font-size: 20px;
+}
+
+.k{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th{
+    border: 1px solid black;
+    color: white;
+}
+
+td{
+    border: 1px solid black;
+}
